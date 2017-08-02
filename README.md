@@ -10,5 +10,11 @@ We will take it slow and use the time to work a bit on the basics. These would i
 3. How to do basic object recognition from videos? 
 
 
-## Interesting papers to get started: 
+## Resources to get started: 
 Please update this section as and when new and interesting materials are found. 
+
+### Papers
+1. Large Scale Video Classification with Convolution Neural Networks.
+
+### Tutorials and online courses
+1.CS-231n: CNN for Visual Recognition  http://cs231n.stanford.edu/syllabus.html 
