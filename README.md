@@ -18,3 +18,6 @@ Please update this section as and when new and interesting materials are found.
 
 ### Tutorials and online courses
 1.CS-231n: CNN for Visual Recognition  http://cs231n.stanford.edu/syllabus.html 
+
+### Blogs
+1. Motion tracking demo. Might not be useful.  http://derek.simkowiak.net/motion-tracking-with-python/
